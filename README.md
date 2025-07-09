@@ -21,7 +21,7 @@ I'm a Senior Software Engineer based in Dubai, UAE, with over 7 years of experie
 | Category | Technologies |
 |---|---|
 | **Languages** | Node.js, Python, Golang, TypeScript, SQL |
-| **Frameworks** | NestJS, Next.js, React, React Native |
+| **Frameworks** | NestJS, Next.js, React |
 | **Databases** | PostgreSQL, MySQL, Redis, Qdrant, Vector Databases |
 | **AI/ML** | LLM Integration, RAG, NLP, OpenAI, Ollama |
 | **Tools & DevOps** | Docker, Git, Linux, AWS, CI/CD, RabbitMQ |
